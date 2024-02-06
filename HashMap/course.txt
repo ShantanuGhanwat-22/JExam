@@ -1,0 +1,7 @@
+C#,55
+Java,70
+C++,50
+JavaScript,30
+Swift,45
+Ruby,45
+Python,40
